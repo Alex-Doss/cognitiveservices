@@ -1,0 +1,3 @@
+# cognitiveservices
+
+Описание проекта.
